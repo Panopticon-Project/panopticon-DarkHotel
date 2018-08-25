@@ -5,3 +5,5 @@ https://www.darkreading.com/attacks-breaches/konni-malware-campaign-targets-nort
 http://www.zdnet.com/article/hackers-are-now-using-the-exploit-behind-wannacry-to-snoop-on-hotel-wi-fi/ towards the end
 
 https://www.wired.com/2014/11/darkhotel-malware/
+
+https://www.securityweek.com/north-korean-hackers-exploit-recently-patched-zero-day
