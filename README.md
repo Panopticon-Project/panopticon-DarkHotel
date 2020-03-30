@@ -9,3 +9,5 @@ https://www.wired.com/2014/11/darkhotel-malware/
 https://www.securityweek.com/north-korean-hackers-exploit-recently-patched-zero-day
 
 https://www.technadu.com/elite-hackers-target-who-while-the-agency-eyes-into-tracking-people-using-gps-location/96512/
+
+https://www.wired.com/story/north-korea-hacking-zero-days-google/ - South Korea attribution
