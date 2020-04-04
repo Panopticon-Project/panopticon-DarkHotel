@@ -11,3 +11,5 @@ https://www.securityweek.com/north-korean-hackers-exploit-recently-patched-zero-
 https://www.technadu.com/elite-hackers-target-who-while-the-agency-eyes-into-tracking-people-using-gps-location/96512/
 
 https://www.wired.com/story/north-korea-hacking-zero-days-google/ - South Korea attribution
+
+https://www.securityweek.com/firefox-ie-vulnerabilities-exploited-attacks-china-japan
