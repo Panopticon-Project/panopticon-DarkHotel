@@ -13,3 +13,5 @@ https://www.technadu.com/elite-hackers-target-who-while-the-agency-eyes-into-tra
 https://www.wired.com/story/north-korea-hacking-zero-days-google/ - South Korea attribution
 
 https://www.securityweek.com/firefox-ie-vulnerabilities-exploited-attacks-china-japan
+
+https://www.cyberscoop.com/dark-hotel-qihoo-360-covid-19/
