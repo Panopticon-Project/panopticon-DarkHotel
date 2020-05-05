@@ -15,3 +15,5 @@ https://www.wired.com/story/north-korea-hacking-zero-days-google/ - South Korea 
 https://www.securityweek.com/firefox-ie-vulnerabilities-exploited-attacks-china-japan
 
 https://www.cyberscoop.com/dark-hotel-qihoo-360-covid-19/
+
+https://securelist.com/apt-trends-report-q1-2020/96826/
