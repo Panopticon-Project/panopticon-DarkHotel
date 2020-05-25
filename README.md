@@ -19,3 +19,5 @@ https://www.cyberscoop.com/dark-hotel-qihoo-360-covid-19/
 https://securelist.com/apt-trends-report-q1-2020/96826/
 
 https://www.welivesecurity.com/2020/05/13/ramsay-cyberespionage-toolkit-airgapped-networks/v
+
+https://www.welivesecurity.com/2020/05/13/ramsay-cyberespionage-toolkit-airgapped-networks/
