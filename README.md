@@ -23,3 +23,5 @@ https://www.welivesecurity.com/2020/05/13/ramsay-cyberespionage-toolkit-airgappe
 https://www.welivesecurity.com/2020/05/13/ramsay-cyberespionage-toolkit-airgapped-networks/
 
 https://blog.bushidotoken.net/2020/06/deep-dive-darkhotel-apt.html
+
+https://www.securityweek.com/purple-fox-exploit-kit-targets-vulnerabilities-linked-darkhotel-group
