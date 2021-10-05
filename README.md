@@ -31,3 +31,5 @@ https://blog.confiant.com/internet-explorer-cve-2019-1367-exploitation-part-2-81
 https://www.securityweek.com/windows-and-ie-zero-day-vulnerabilities-chained-powerfall-attacks
 
 https://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/
+
+https://www.crysys.hu/publications/files/tedi/ukatemicrysys_territorialdispute.pdf
