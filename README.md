@@ -33,3 +33,5 @@ https://www.securityweek.com/windows-and-ie-zero-day-vulnerabilities-chained-pow
 https://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/
 
 https://www.crysys.hu/publications/files/tedi/ukatemicrysys_territorialdispute.pdf
+
+https://www.securityweek.com/17-malware-frameworks-target-air-gapped-systems-espionage
