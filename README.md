@@ -37,3 +37,5 @@ https://www.crysys.hu/publications/files/tedi/ukatemicrysys_territorialdispute.p
 https://www.securityweek.com/17-malware-frameworks-target-air-gapped-systems-espionage
 
 https://blog.360totalsecurity.com/en/analysis-cve-2018-8174-vbscript-0day-apt-actor-related-office-targeted-attack/
+
+https://threatpost.com/darkhotel-apt-wynn-macao-hotels/178989/
