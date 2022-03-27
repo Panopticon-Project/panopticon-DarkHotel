@@ -39,3 +39,5 @@ https://www.securityweek.com/17-malware-frameworks-target-air-gapped-systems-esp
 https://blog.360totalsecurity.com/en/analysis-cve-2018-8174-vbscript-0day-apt-actor-related-office-targeted-attack/
 
 https://threatpost.com/darkhotel-apt-wynn-macao-hotels/178989/
+
+https://www.securityweek.com/hotels-macau-targeted-attacks-linked-south-koreas-darkhotel-apt
